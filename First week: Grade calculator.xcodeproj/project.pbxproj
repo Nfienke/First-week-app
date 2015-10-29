@@ -1,0 +1,507 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3255DEC11BE262A50095D397 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3255DEC01BE262A50095D397 /* AppDelegate.swift */; };
+		3255DEC31BE262A50095D397 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3255DEC21BE262A50095D397 /* ViewController.swift */; };
+		3255DEC61BE262A50095D397 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3255DEC41BE262A50095D397 /* Main.storyboard */; };
+		3255DEC81BE262A50095D397 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3255DEC71BE262A50095D397 /* Assets.xcassets */; };
+		3255DECB1BE262A50095D397 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3255DEC91BE262A50095D397 /* LaunchScreen.storyboard */; };
+		3255DED61BE262A50095D397 /* First_week__Grade_calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3255DED51BE262A50095D397 /* First_week__Grade_calculatorTests.swift */; };
+		3255DEE11BE262A50095D397 /* First_week__Grade_calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3255DEE01BE262A50095D397 /* First_week__Grade_calculatorUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3255DED21BE262A50095D397 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3255DEB51BE262A50095D397 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3255DEBC1BE262A50095D397;
+			remoteInfo = "First week: Grade calculator";
+		};
+		3255DEDD1BE262A50095D397 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3255DEB51BE262A50095D397 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3255DEBC1BE262A50095D397;
+			remoteInfo = "First week: Grade calculator";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3255DEBD1BE262A50095D397 /* First week: Grade calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "First week: Grade calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3255DEC01BE262A50095D397 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3255DEC21BE262A50095D397 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3255DEC51BE262A50095D397 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3255DEC71BE262A50095D397 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3255DECA1BE262A50095D397 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3255DECC1BE262A50095D397 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3255DED11BE262A50095D397 /* First week: Grade calculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "First week: Grade calculatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3255DED51BE262A50095D397 /* First_week__Grade_calculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = First_week__Grade_calculatorTests.swift; sourceTree = "<group>"; };
+		3255DED71BE262A50095D397 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3255DEDC1BE262A50095D397 /* First week: Grade calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "First week: Grade calculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3255DEE01BE262A50095D397 /* First_week__Grade_calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = First_week__Grade_calculatorUITests.swift; sourceTree = "<group>"; };
+		3255DEE21BE262A50095D397 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3255DEBA1BE262A50095D397 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3255DECE1BE262A50095D397 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3255DED91BE262A50095D397 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3255DEB41BE262A50095D397 = {
+			isa = PBXGroup;
+			children = (
+				3255DEBF1BE262A50095D397 /* First week: Grade calculator */,
+				3255DED41BE262A50095D397 /* First week: Grade calculatorTests */,
+				3255DEDF1BE262A50095D397 /* First week: Grade calculatorUITests */,
+				3255DEBE1BE262A50095D397 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3255DEBE1BE262A50095D397 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3255DEBD1BE262A50095D397 /* First week: Grade calculator.app */,
+				3255DED11BE262A50095D397 /* First week: Grade calculatorTests.xctest */,
+				3255DEDC1BE262A50095D397 /* First week: Grade calculatorUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3255DEBF1BE262A50095D397 /* First week: Grade calculator */ = {
+			isa = PBXGroup;
+			children = (
+				3255DEC01BE262A50095D397 /* AppDelegate.swift */,
+				3255DEC21BE262A50095D397 /* ViewController.swift */,
+				3255DEC41BE262A50095D397 /* Main.storyboard */,
+				3255DEC71BE262A50095D397 /* Assets.xcassets */,
+				3255DEC91BE262A50095D397 /* LaunchScreen.storyboard */,
+				3255DECC1BE262A50095D397 /* Info.plist */,
+			);
+			path = "First week: Grade calculator";
+			sourceTree = "<group>";
+		};
+		3255DED41BE262A50095D397 /* First week: Grade calculatorTests */ = {
+			isa = PBXGroup;
+			children = (
+				3255DED51BE262A50095D397 /* First_week__Grade_calculatorTests.swift */,
+				3255DED71BE262A50095D397 /* Info.plist */,
+			);
+			path = "First week: Grade calculatorTests";
+			sourceTree = "<group>";
+		};
+		3255DEDF1BE262A50095D397 /* First week: Grade calculatorUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3255DEE01BE262A50095D397 /* First_week__Grade_calculatorUITests.swift */,
+				3255DEE21BE262A50095D397 /* Info.plist */,
+			);
+			path = "First week: Grade calculatorUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3255DEBC1BE262A50095D397 /* First week: Grade calculator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3255DEE51BE262A50095D397 /* Build configuration list for PBXNativeTarget "First week: Grade calculator" */;
+			buildPhases = (
+				3255DEB91BE262A50095D397 /* Sources */,
+				3255DEBA1BE262A50095D397 /* Frameworks */,
+				3255DEBB1BE262A50095D397 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "First week: Grade calculator";
+			productName = "First week: Grade calculator";
+			productReference = 3255DEBD1BE262A50095D397 /* First week: Grade calculator.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3255DED01BE262A50095D397 /* First week: Grade calculatorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3255DEE81BE262A50095D397 /* Build configuration list for PBXNativeTarget "First week: Grade calculatorTests" */;
+			buildPhases = (
+				3255DECD1BE262A50095D397 /* Sources */,
+				3255DECE1BE262A50095D397 /* Frameworks */,
+				3255DECF1BE262A50095D397 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3255DED31BE262A50095D397 /* PBXTargetDependency */,
+			);
+			name = "First week: Grade calculatorTests";
+			productName = "First week: Grade calculatorTests";
+			productReference = 3255DED11BE262A50095D397 /* First week: Grade calculatorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3255DEDB1BE262A50095D397 /* First week: Grade calculatorUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3255DEEB1BE262A50095D397 /* Build configuration list for PBXNativeTarget "First week: Grade calculatorUITests" */;
+			buildPhases = (
+				3255DED81BE262A50095D397 /* Sources */,
+				3255DED91BE262A50095D397 /* Frameworks */,
+				3255DEDA1BE262A50095D397 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3255DEDE1BE262A50095D397 /* PBXTargetDependency */,
+			);
+			name = "First week: Grade calculatorUITests";
+			productName = "First week: Grade calculatorUITests";
+			productReference = 3255DEDC1BE262A50095D397 /* First week: Grade calculatorUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3255DEB51BE262A50095D397 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = "Nienke Pot";
+				TargetAttributes = {
+					3255DEBC1BE262A50095D397 = {
+						CreatedOnToolsVersion = 7.1;
+					};
+					3255DED01BE262A50095D397 = {
+						CreatedOnToolsVersion = 7.1;
+						TestTargetID = 3255DEBC1BE262A50095D397;
+					};
+					3255DEDB1BE262A50095D397 = {
+						CreatedOnToolsVersion = 7.1;
+						TestTargetID = 3255DEBC1BE262A50095D397;
+					};
+				};
+			};
+			buildConfigurationList = 3255DEB81BE262A50095D397 /* Build configuration list for PBXProject "First week: Grade calculator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3255DEB41BE262A50095D397;
+			productRefGroup = 3255DEBE1BE262A50095D397 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3255DEBC1BE262A50095D397 /* First week: Grade calculator */,
+				3255DED01BE262A50095D397 /* First week: Grade calculatorTests */,
+				3255DEDB1BE262A50095D397 /* First week: Grade calculatorUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3255DEBB1BE262A50095D397 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3255DECB1BE262A50095D397 /* LaunchScreen.storyboard in Resources */,
+				3255DEC81BE262A50095D397 /* Assets.xcassets in Resources */,
+				3255DEC61BE262A50095D397 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3255DECF1BE262A50095D397 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3255DEDA1BE262A50095D397 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3255DEB91BE262A50095D397 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3255DEC31BE262A50095D397 /* ViewController.swift in Sources */,
+				3255DEC11BE262A50095D397 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3255DECD1BE262A50095D397 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3255DED61BE262A50095D397 /* First_week__Grade_calculatorTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3255DED81BE262A50095D397 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3255DEE11BE262A50095D397 /* First_week__Grade_calculatorUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3255DED31BE262A50095D397 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3255DEBC1BE262A50095D397 /* First week: Grade calculator */;
+			targetProxy = 3255DED21BE262A50095D397 /* PBXContainerItemProxy */;
+		};
+		3255DEDE1BE262A50095D397 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3255DEBC1BE262A50095D397 /* First week: Grade calculator */;
+			targetProxy = 3255DEDD1BE262A50095D397 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3255DEC41BE262A50095D397 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3255DEC51BE262A50095D397 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3255DEC91BE262A50095D397 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3255DECA1BE262A50095D397 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3255DEE31BE262A50095D397 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3255DEE41BE262A50095D397 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3255DEE61BE262A50095D397 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "First week: Grade calculator/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "nl.mprog.First-week--Grade-calculator";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3255DEE71BE262A50095D397 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "First week: Grade calculator/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "nl.mprog.First-week--Grade-calculator";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		3255DEE91BE262A50095D397 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "First week: Grade calculatorTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "nl.mprog.First-week--Grade-calculatorTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/First week: Grade calculator.app/First week: Grade calculator";
+			};
+			name = Debug;
+		};
+		3255DEEA1BE262A50095D397 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "First week: Grade calculatorTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "nl.mprog.First-week--Grade-calculatorTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/First week: Grade calculator.app/First week: Grade calculator";
+			};
+			name = Release;
+		};
+		3255DEEC1BE262A50095D397 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "First week: Grade calculatorUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "nl.mprog.First-week--Grade-calculatorUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "First week: Grade calculator";
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		3255DEED1BE262A50095D397 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "First week: Grade calculatorUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "nl.mprog.First-week--Grade-calculatorUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "First week: Grade calculator";
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3255DEB81BE262A50095D397 /* Build configuration list for PBXProject "First week: Grade calculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3255DEE31BE262A50095D397 /* Debug */,
+				3255DEE41BE262A50095D397 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3255DEE51BE262A50095D397 /* Build configuration list for PBXNativeTarget "First week: Grade calculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3255DEE61BE262A50095D397 /* Debug */,
+				3255DEE71BE262A50095D397 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		3255DEE81BE262A50095D397 /* Build configuration list for PBXNativeTarget "First week: Grade calculatorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3255DEE91BE262A50095D397 /* Debug */,
+				3255DEEA1BE262A50095D397 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		3255DEEB1BE262A50095D397 /* Build configuration list for PBXNativeTarget "First week: Grade calculatorUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3255DEEC1BE262A50095D397 /* Debug */,
+				3255DEED1BE262A50095D397 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3255DEB51BE262A50095D397 /* Project object */;
+}
